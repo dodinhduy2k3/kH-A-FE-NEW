@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+:root {
+    --font: "DM Sans", sans-serif;
+    --color-one:#FF8484 ;
+    --color-two: ;
+    --color-bg1: #DCE8EB;
+    --color-bg2: #EFEFEF;
+    --color-bg3: #DCE8EB;
+    --color-text: #232323;
+
+    
+}
+
+body{
+    font-family: var(--font);
+
+}
+.a{
+    text-decoration: none; /* Ghi đè lên thuộc tính text-decoration của thẻ a */
+}
